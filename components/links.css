@@ -1,0 +1,22 @@
+#link-linkedin {
+  text-decoration: none;
+  padding: 10px;
+  background-color: #f3f3f3ee;
+  color: goldenrod;
+  transition: 0.6s;
+  border-radius: 120px;
+  border-width: 0.5px 0.5px 0.5px 0.5px;
+  box-shadow: 0px 0px 3px 0.8px rgba(222, 158, 9, 0.2);
+  font-size: 15px;
+  font-weight: bold;
+  width: 120px;
+}
+
+#link-linkedin:hover {
+  background-color: #d8dbcf;
+  color: rgb(187, 159, 88);
+  transition: 0.6s;
+  box-shadow: 0px 0px 2px 3px rgba(222, 158, 9, 0.925);
+  width: 125px;
+  padding: 9px;
+}

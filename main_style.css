@@ -1,0 +1,20 @@
+@import url("components/footer.css");
+@import url("components/cards_section.css");
+@import url("components/links.css");
+
+body {
+  background-color: rgba(255, 164, 8, 0.163) !important;
+  font-family: 'lato', sans-serif;
+  font-size: 20px;
+  color: black;
+  line-height: 40px;
+  margin: 0;
+}
+
+.welcome {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: #E8871E !important;
+  line-height: 30px;
+}

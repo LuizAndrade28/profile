@@ -1,0 +1,22 @@
+.social-media-links i {
+  margin: 0 auto;
+  text-decoration: none;
+  color: #948B89;
+  padding: 6px;
+  transition: 0.5s;
+  font-size: 18px;
+}
+
+.social-media-links:hover i {
+  color: #ffffff;
+  transition: 0.5s;
+}
+
+.social-div h4 {
+  margin: 0;
+  margin-top: 1px;
+  color: #1112119b;
+  font-size: 22px;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+}

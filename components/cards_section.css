@@ -1,0 +1,119 @@
+/* BANNER SECTION */
+
+.banner-section {
+  text-align: center;
+  border: solid;
+  border-color: #E8871E;
+  border-width: 2px;
+  border-radius: 25px;
+  box-shadow: 0px 8px #E8871E;
+}
+
+#banner-h1 {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: #E8871E;
+  line-height: 30px;
+  margin: 15px 15px 15px 15px;
+}
+
+#banner-h3 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 160;
+  font-size: 19px;
+  line-height: 25px;
+  padding-top: 5px;
+  padding-bottom: 5pxz;
+  margin: 15px 15px 15px 15px;
+}
+
+#profile-pic {
+  width: 150px;
+  display: block;
+  margin: 25px auto 25px;
+  box-shadow: 0 6px 8px rgba(46, 46, 46, 0.5);
+  border-radius: 100%;
+  clear: both;
+}
+
+/*------------------------------------------  */
+
+/*LINKEDIN SECTION  */
+
+.linkedin-section {
+  text-align: center;
+  border: solid;
+  border-color: #E8871E;
+  border-width: 0.3px;
+  border-radius: 25px;
+  box-shadow: 0px 0px 5px 1.2px #E8871E;
+  color: #1112119b;
+}
+
+.linkedin-section p {
+  display: inline-flex;
+  text-align: center;
+  align-self: center;
+  padding: 20px;
+  margin: 0;
+  font-size: 18px;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+/*------------------------------------------  */
+
+/* LANGUAGES SECTION */
+
+.languages-section {
+  text-align: center;
+  border: solid;
+  border-color: #E8871E;
+  border-width: 0.3px;
+  border-radius: 25px;
+  box-shadow: 0px 0px 5px 1.2px #E8871E;
+  color: #1112119b;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+.languages-section h5 {
+  margin: 0;
+  font-size: 18px;
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  line-height: 25px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  color: #1112119b;
+}
+
+.languages-section ul {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 160;
+  line-height: 30px;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+#ruby-icon {
+  height: 20px;
+}
+
+.fa-html5:before {
+  color: rgb(206, 134, 1);
+}
+
+.fa-css3:before {
+  color: rgb(50, 168, 241);
+}
+
+.fa-js:before {
+  color: yellow;
+}
+
+/*------------------------------------------  */
